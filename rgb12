@@ -1,5 +1,3 @@
-@import url("https://raw.githubusercontent.com/spiralingAenictus/elysia-12/main/rgb12?token=AUPCS6BQXPCZ2US6PPOX5SLAY32J4");
-
 @keyframes RGB_TEXT {
 0% {
 		color: var(--C1);
